@@ -1,1 +1,2 @@
 # PH-Employee_DB
+# The company should prepare for a large influx of retirees for the upcoming program. There are thousands of positions that will open up as a result of the exodus of retirement eligible employees.
